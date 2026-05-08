@@ -23,7 +23,7 @@ I am a recent graduate from DTU with a MSc in Human-Centered Artificial Intellig
 - **Role:** I performed the role of data analyst in this project, being the main driver behind the clustering of data points and the correlation analysis.
 - **Status:** Public at https://github.com/FenrisWulven/StockMarketNewsImpact
 
-### More projects will be added!
+### Currently private projects within 2D/3D Image Analysis, App/UX Development and Signal/Data Analysis are available upon request!
 <!--
 **asbjornhp/asbjornhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
