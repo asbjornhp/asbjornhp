@@ -23,7 +23,7 @@ I am a recent graduate from DTU with a MSc in Human-Centered Artificial Intellig
 - **Role:** I performed the role of data analyst in this project, being the main driver behind the clustering of data points and the correlation analysis.
 - **Status:** Public at https://github.com/FenrisWulven/StockMarketNewsImpact
 
-### [BugNIST Classification: 2D versus 3D]
+#### [BugNIST Classification: 2D versus 3D]
 - **Concept:** The idea of this project was to benchmark the difference between using 3D and 2D images for classification purposes. For this, we did hyperparameter tuning and training of a ResNET model and benchmarked their performance through Weights and Biases, yielding also nice visualizations. This culminated in a poster which can be viewed.
 - **Role:** Together with my teammate, we covered the same tasks with orchestrating the training loop and data processing pipeline.
 - **Status:** Public at  https://github.com/asbjornhp/3D_2D_Bug_Classify
